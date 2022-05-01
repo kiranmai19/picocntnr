@@ -36,7 +36,7 @@ public class StepDef2
 	}
 
 	@When("close site")
-	public void method5()
+	public void method6()
 	{
 		sh.u.closeSite(sh.driver);
 	}
