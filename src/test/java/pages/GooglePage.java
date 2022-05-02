@@ -35,7 +35,7 @@ public class GooglePage
 		}
 		else
 		{
-			return(false);
+			return(falses);
 		}
 	}
 }
